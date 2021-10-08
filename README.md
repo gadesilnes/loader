@@ -1,4 +1,4 @@
-This project focus is to bring solutions to 360 in Datalake, using Hive, HBase, Spark
+This project focus is to bring solutions to 360 in Datalake, using Hive, HBase, Spark, HDFS , Impala
 
 Features:
 
